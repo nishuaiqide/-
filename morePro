@@ -6,7 +6,7 @@ proxies:
  username: "440996741026676736"
  password: "a19e53c6-9066-496e-bc2b-7387bfd192f4"
  tls: true
- skip-cert-verify: false 
+ 
 - name: 🇭🇰 HK/香港_2
  server: a2.ap.fastqvpn.com
  port: 29980
@@ -14,7 +14,7 @@ proxies:
  username: "440996741026676736"
  password: "a19e53c6-9066-496e-bc2b-7387bfd192f4"
  tls: true
- skip-cert-verify: false 
+ 
 - name: 🇭🇰 HK/香港_3
  server: a3.ap.fastqvpn.com
  port: 29980
@@ -22,7 +22,7 @@ proxies:
  username: "440996741026676736"
  password: "a19e53c6-9066-496e-bc2b-7387bfd192f4"
  tls: true
- skip-cert-verify: false 
+ 
 - name: 🇭🇰 HK/香港_4
  server: a4.ap.fastqvpn.com
  port: 29980
@@ -30,7 +30,7 @@ proxies:
  username: "440996741026676736"
  password: "a19e53c6-9066-496e-bc2b-7387bfd192f4"
  tls: true
- skip-cert-verify: false 
+ 
 - name: 🇭🇰 HK/香港_5
  server: a5.ap.fastqvpn.com
  port: 29980
@@ -38,7 +38,7 @@ proxies:
  username: "440996741026676736"
  password: "a19e53c6-9066-496e-bc2b-7387bfd192f4"
  tls: true
- skip-cert-verify: false 
+ 
 - name: 🇭🇰 HK/香港
  server: global.ap.fastqvpn.com
  port: 29980
@@ -46,7 +46,7 @@ proxies:
  username: "440996741026676736"
  password: "a19e53c6-9066-496e-bc2b-7387bfd192f4"
  tls: true
- skip-cert-verify: false 
+ 
 - name: 🇦🇺 AU/澳大利亚
  server: global.ap.fastqvpn.com
  port: 29982
@@ -54,7 +54,7 @@ proxies:
  username: "440996741026676736"
  password: "a19e53c6-9066-496e-bc2b-7387bfd192f4"
  tls: true
- skip-cert-verify: false 
+ 
 - name: 🇨🇦 CA/加拿大
  server: global.ap.fastqvpn.com
  port: 29983
@@ -62,7 +62,7 @@ proxies:
  username: "440996741026676736"
  password: "a19e53c6-9066-496e-bc2b-7387bfd192f4"
  tls: true
- skip-cert-verify: false 
+ 
 - name: 🇩🇪 DE/德国
  server: global.ap.fastqvpn.com
  port: 29984
@@ -70,7 +70,7 @@ proxies:
  username: "440996741026676736"
  password: "a19e53c6-9066-496e-bc2b-7387bfd192f4"
  tls: true
- skip-cert-verify: false 
+ 
 - name: 🇯🇵 JP/日本
  server: global.ap.fastqvpn.com
  port: 29985
@@ -78,7 +78,7 @@ proxies:
  username: "440996741026676736"
  password: "a19e53c6-9066-496e-bc2b-7387bfd192f4"
  tls: true
- skip-cert-verify: false 
+ 
 - name: 🇸🇬 SG/新加坡
  server: global.ap.fastqvpn.com
  port: 29986
@@ -86,7 +86,7 @@ proxies:
  username: "440996741026676736"
  password: "a19e53c6-9066-496e-bc2b-7387bfd192f4"
  tls: true
- skip-cert-verify: false 
+ 
 - name: 🇬🇧 UK/英国
  server: global.ap.fastqvpn.com
  port: 29987
@@ -94,7 +94,7 @@ proxies:
  username: "440996741026676736"
  password: "a19e53c6-9066-496e-bc2b-7387bfd192f4"
  tls: true
- skip-cert-verify: false 
+ 
 - name: 🇺🇸 US/美国
  server: global.ap.fastqvpn.com
  port: 29988
@@ -102,7 +102,7 @@ proxies:
  username: "440996741026676736"
  password: "a19e53c6-9066-496e-bc2b-7387bfd192f4"
  tls: true
- skip-cert-verify: false 
+ 
 - name: 🇭🇰 HK/香港
  server: tx.wy.fastqvpn.com
  port: 29980
